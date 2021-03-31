@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Domain\\VestingProgram.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Domain\\VestingProgram.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Domain\\VestingProgram.Domain.csproj",
+        "projectName": "VestingProgram.Domain",
+        "projectPath": "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Domain\\VestingProgram.Domain.csproj",
+        "packagesPath": "C:\\Users\\alfredo.ackermann\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alfredo.ackermann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://nuget.psafe.net": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

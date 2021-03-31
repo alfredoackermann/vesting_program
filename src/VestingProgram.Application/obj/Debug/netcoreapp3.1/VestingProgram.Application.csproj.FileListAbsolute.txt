@@ -1,0 +1,14 @@
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Application.deps.json
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Application.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Application.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Domain.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Infrastructure.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Domain.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\bin\Debug\netcoreapp3.1\VestingProgram.Infrastructure.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.csprojAssemblyReference.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.AssemblyInfoInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.AssemblyInfo.cs
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.csproj.CopyComplete
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Application\obj\Debug\netcoreapp3.1\VestingProgram.Application.pdb

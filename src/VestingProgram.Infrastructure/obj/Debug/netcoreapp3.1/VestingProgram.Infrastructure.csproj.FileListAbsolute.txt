@@ -1,0 +1,12 @@
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\bin\Debug\netcoreapp3.1\VestingProgram.Infrastructure.deps.json
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\bin\Debug\netcoreapp3.1\VestingProgram.Infrastructure.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\bin\Debug\netcoreapp3.1\VestingProgram.Infrastructure.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\bin\Debug\netcoreapp3.1\VestingProgram.Domain.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\bin\Debug\netcoreapp3.1\VestingProgram.Domain.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.csprojAssemblyReference.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.AssemblyInfo.cs
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.csproj.CopyComplete
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Infrastructure\obj\Debug\netcoreapp3.1\VestingProgram.Infrastructure.pdb

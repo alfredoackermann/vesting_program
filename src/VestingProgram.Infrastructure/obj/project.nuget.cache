@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzbNgd939KA5EF5GvHF2DYcjbe/Va1R1/0YrREAcI6EVgM6SUt9Lj0NYNu54cMqAVQ2dyqEubP67t5PihhwunQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alfredo.ackermann\\source\\repos\\AA-CARTA\\vesting_program\\src\\VestingProgram.Infrastructure\\VestingProgram.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfredo.ackermann\\.nuget\\packages\\csvhelper\\25.0.0\\csvhelper.25.0.0.nupkg.sha512",
+    "C:\\Users\\alfredo.ackermann\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\alfredo.ackermann\\.nuget\\packages\\system.io.packaging\\5.0.0\\system.io.packaging.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

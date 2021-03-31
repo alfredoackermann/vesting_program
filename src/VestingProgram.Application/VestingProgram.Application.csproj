@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VestingProgram.Domain\VestingProgram.Domain.csproj" />
+    <ProjectReference Include="..\VestingProgram.Infrastructure\VestingProgram.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

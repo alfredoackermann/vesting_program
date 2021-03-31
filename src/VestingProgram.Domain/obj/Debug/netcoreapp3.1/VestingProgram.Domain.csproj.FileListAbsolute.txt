@@ -1,0 +1,9 @@
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\bin\Debug\netcoreapp3.1\VestingProgram.Domain.deps.json
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\bin\Debug\netcoreapp3.1\VestingProgram.Domain.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\bin\Debug\netcoreapp3.1\VestingProgram.Domain.pdb
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.csprojAssemblyReference.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.AssemblyInfoInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.AssemblyInfo.cs
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.dll
+C:\Users\alfredo.ackermann\source\repos\AA-CARTA\vesting_program\src\VestingProgram.Domain\obj\Debug\netcoreapp3.1\VestingProgram.Domain.pdb
